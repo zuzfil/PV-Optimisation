@@ -129,9 +129,9 @@
       "format": "csv"
     }
   ],
-  "name": "pv-optimization-ch3",
-  "title": "PV Optimization - Challenge 3",
-  "description": "PV Optimization - Challenge 3\n\nThe power values in kW refer to the average over the 15min period.",
+  "name": "pv-optimization",
+  "title": "PV Optimization",
+  "description": "PV Optimization \n\nThe power values in kW refer to the average over the 15min period.",
   "licenses": [
     {
       "name": "CC0-1.0",
