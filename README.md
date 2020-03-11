@@ -1,5 +1,5 @@
 # Data
-Data on power generation, grid feed, grid supply and overall consumption of three power plants by AEW Energie AG for the Challenge 3 of Energy Data Hackdays 2020 in Brugg.
+Data on power generation, grid feed, grid supply and overall consumption of three power plants by AEW Energie AG. First time published for the Challenge 3 of Energy Data Hackdays 2020 in Brugg.
 A.csv
 B.csv
 C.csv
