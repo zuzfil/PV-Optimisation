@@ -4,7 +4,7 @@ A.csv
 B.csv
 C.csv
 
-For questions on the data, reach out to Matthias Eifert,	matthias.eifert@zukunftsregion-argovia.ch, or Zuzana Filková, zuza.filkova@gmail.com.
+For questions on the data, reach out to .
 
 The data were created during the operation of AEW-owned PV plants in 2019. The power values in kW refer to the average over the 15min period.
 
