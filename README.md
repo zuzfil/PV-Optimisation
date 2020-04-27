@@ -6,7 +6,7 @@ C.csv
 
 For questions on the data, reach out at https://github.com/zuzfil/PV-optimisation/issues.
 
-The data were created during the operation of AEW-owned PV plants in 2019. The power values in kW refer to the average over the 15min period.
+The data were created during the operation of AEW-owned PV plants in 2019. The plants are all located in Aargau, Switzerland. The power values in kW refer to the average over the 15min period.
 
 # License
 
